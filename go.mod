@@ -1,3 +1,1 @@
-module github.com/dozz-eng/testmod
-
-go 1.23.4
+module github.com/dozz-eng/testmod/v2
